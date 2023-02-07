@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"8a7c0a00-e5f2-41b5-81ea-9d1ec640de9c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c034ad63-c1fc-47f0-bcfa-e675f762fbdc\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
+    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"8a7c0a00-e5f2-41b5-81ea-9d1ec640de9c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c034ad63-c1fc-47f0-bcfa-e675f762fbdc\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
+    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"7e33f3de-625f-4e7c-a61e-1a07f5d600a0\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"d6191b37-36fd-4aff-beac-692b38d89176\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-02-07T14:21:21Z\",\r\n    \"updatedAt\":
+    \"2023-02-07T14:21:21Z\"\r\n  }\r\n]"
